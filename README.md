@@ -1,5 +1,4 @@
 # Crush Coefficient Calculator
-Converts an uploaded image to an OBJ Mesh surface. 
 
 ## Homepage and file access
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/CrushCoefficientCalculator/main)
